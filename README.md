@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 💼 Software Developer from Islamabad
 - 🌐 Portfolio: [portfolio-oufl.vercel.app](https://portfolio-oufl.vercel.app/)
@@ -18,7 +18,7 @@
 
 ---
 
-## 📊 My GitHub Stats
+## My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajafawady&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="165"/>
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -46,7 +46,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://portfolio-oufl.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-visit-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
