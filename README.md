@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Raja Fawad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi there, I'm Raja Fawad!</h1>
 
 <p align="center">
   <b>Driven by curiosity, fueled by growth.</b><br>
@@ -14,7 +14,7 @@
 - 💼 Software Developer from Islamabad
 - 🌐 Portfolio: [portfolio-oufl.vercel.app](https://portfolio-oufl.vercel.app/)
 - 📫 Reach me at: rajafawady@gmail.com
-- 🧑‍💻 I love creating, learning, and pushing boundaries!
+- 🧑‍💻 I love creating, learning, and building systems!
 
 ---
 
@@ -57,4 +57,4 @@
 
 ---
 
-<p align="center">⭐️ Thank you for visiting my profile! ⭐️</p>
+<p align="center">Thank you for visiting my profile!</p>
