@@ -11,10 +11,10 @@
 
 ## About Me
 
-- 💼 Software Developer from Islamabad
+- 💼 Software Developer from Lahore, Pk
 - 🌐 Portfolio: [portfolio-oufl.vercel.app](https://portfolio-oufl.vercel.app/)
 - 📫 Reach me at: rajafawady@gmail.com
-- 🧑‍💻 I love creating, learning, and building systems!
+- 🧑‍💻 I enjoy creating, learning, and building systems!
 
 ---
 
